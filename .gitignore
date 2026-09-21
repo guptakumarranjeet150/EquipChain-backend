@@ -2,8 +2,6 @@
 node_modules/
 
 # Environment
-.env
-.env.*
 !.env.example
 
 # Logs
@@ -25,10 +23,10 @@ k6/results/*
 *.html
 
 # Editors
-.vscode/
 .idea/
 *.swp
 
 # OS
 .DS_Store
 Thumbs.db
+config.bat
